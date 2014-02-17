@@ -1,6 +1,6 @@
 #############################################################################################
 #
-# cod4_cpsp.py
+# cod4-cpsp.py
 #
 #
 # The exploit that this script protects against is a flooder. The flooder will send
