@@ -1,4 +1,5 @@
 # CoD4 CNCT Player Spam Protect
+[![Tested with Python 2.7](http://img.shields.io/badge/Python-2.7-brightgreen.svg)](http://www.python.org/download/releases/2.7/)
 
 CoD4 CPSP is a small script designed to protect your CoD4 server from those retards who think flooding your server with fake players is funny.
 
